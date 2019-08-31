@@ -1,3 +1,5 @@
+In this project, the we application fetch weather realted information from API_KEY. I am using https://openweathermap.org/api to get the data. So, if you would like to work on it, then firstly create account and get your own API Key and place it in source code at API_KEY.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
